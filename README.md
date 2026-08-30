@@ -1,4 +1,4 @@
-# 👩🏻‍💻 NichollasCunha
+# NichollasCunha
 
 **`Desenvolvedora FullStack`**
 
