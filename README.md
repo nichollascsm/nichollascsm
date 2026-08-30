@@ -1,9 +1,12 @@
 # NichollasCunha
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Back-end`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá! Meu nome é Nichollas Cunha e sou programador, apaixonado por tecnologia e pelo desenvolvimento de soluções através da programação.
 
+Tenho 1 ano de experiência na área e, ao longo desse período, venho desenvolvendo meus conhecimentos e aprimorando minhas habilidades. Um dos meus principais diferenciais é a facilidade para aprender, o que me permite me adaptar rapidamente a novas tecnologias, ferramentas e desafios.
+
+Estou sempre buscando evoluir profissionalmente, aprender coisas novas e transformar ideias em projetos funcionais. Meu objetivo é continuar crescendo como programador, adquirir novas experiências e contribuir com projetos que gerem resultados e façam a diferença.
 
 ### 🤖 Linguagens e Tecnologias
 
